@@ -1,6 +1,9 @@
 Flask
 Gunicorn
 tensorflow
+sklearn
+itertools
+pickle
 numpy==1.21.6
 pandas==1.3.5
 Pillow==6.0.0
